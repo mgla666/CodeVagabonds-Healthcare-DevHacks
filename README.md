@@ -4,19 +4,20 @@ The participants are required to use this repository as a template and create a 
 
 ### Project Overview
 ----------------------------------
-As the prime focus of the time is to maintain social distancing so mass gatherings must be avoided. The stranded junta should be given shelter to avoid this.Shelter for people irrespective of religion and the wealth they possess. Just a gesture to help those who are left lamenting.Here we ensure a good public-administration relation .Food is such an aspect for which the government has already allocated funds and is distributing the buffer FCI stock in ration stops to the AAY/BPL card holders .So we need to channelize that flow and prevent any fraud in the process .The basic project objective is to provide shelter to the people who got stranded  in different parts of the country,firstly covering the worst hit areas and densely populated cities . This would lead to maintaining ‘social distancing’ and thus reduce mass gatherings which leads to rapid spread of COVID-19.As soon as the person gets the shelter,he will be provided with food (coupon system) instead of providing them the ration. 
+As there are many people left without a home due to the sudden imposition of lockdown by the government, the need of the hour is to provide them some form of relief in the form of providing them with shelter and food. At the moment, most of them are taking rest in massive gatherings in temples and mosques. This also creates a mass gathering in public spaces which must be avoided at all costs.
+
+Shelter is an app to help those who are left lamenting. Here we ensure a good public-administration relation. The basic project objective is to provide shelter to the people who got stranded  in different parts of the country by encouraging those who own more than a house or a  hotel/hostel/dharmashalas to open up for use as a shelter to the stranded people. Such people would then be approached by police agencies, who have a knowledge about such stranded people. This would provide them the comfort of having a shed above their head. This would also lead to maintaining ‘social distancing’ and thus reduce mass gatherings which leads to rapid spread of COVID-19. After the person gets the shelter, he will be provided with food made from the allocated pmcares fund. The police will also be able to keep a track of people located in the shelters in their respective area of jurisdiction and hence help in the distribution of food rations.
 
 ### Solution Description
 ----------------------------------
-1.An app that helps the stranded and homeless people in this pandemic find a shelter free of cost  .
-2.This app is based on the concept of Public - Police Partnership, an entirely new concept.
-3.Those who own more than a house or a  hotel/hostel/dharmashalas which are vacant as of now can register for providing shelter. A parallel portal for the police officials incharge of that area.
-4.Registration would be a short process where the proof of ownership and a government ID card of the property owner shall be required alongside some basic informations which will be verified by the police
-5.If someone you know is stranded in some part of the country,just give a missed call to our toll free no. ,we’ll get back within a few moments and take down the location and details of the folk.
-These will be fed to a database which is accessible by both the app administrators and areal police.
-6.There will be a chat box for the owners and police to interact for better interaction
-The Admin Dashboard will be for the developers for purposes like complaints and feedback of the app.
-
+1. An app that helps the stranded and homeless people in this pandemic find a shelter free of cost.
+2. This app is based on the concept of Public - Police Partnership, an entirely new concept.
+3. Those who own more than a house or a  hotel/hostel/dharmashalas which are vacant as of now can register for providing shelter. A parallel portal for the police officials incharge of that area is also provided.
+4. Registration would be a short process where the proof of ownership, government ID card of the property owner, capacity and contact details shall be required which will be verified by government agencies though our admin portal and then approved to be listed.  
+5. Once the property is listed, the details of the place will be displayed to the local police, who are aware of such stranded victims in their locality.
+6. The police will also be able to keep a track of people located in the shelters in their respective area of jurisdiction and hence help in the distribution of food rations.
+7. If someone is aware of someone being stranded in some part of the country, they can give a missed call to our toll free no. and we will get in touch with them shortly. We will then request the local police to track down that person.
+8. A donation link to the pmcares website will also be placed in the homepage, for willing contributors.
 
 #### Architecture Diagram
 
@@ -24,15 +25,14 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 #### Technical Description
 
-An overview of 
-* What technologies/versions were used
-* Setup/Installations required to run the solution
-
+1. UI Design - Adobe XD
+    1. Download Adobe XD from [here](https://www.adobe.com/in/products/xd.html).
+    1. Open the file located [here]().
 
 ### Team Members
 ----------------------------------
 
-Siddharth Singh        1829099@kiit.ac.in
-Rayak Sil              1829082@kiit.ac.in
-Hrishit Prasad Biswas  1829152@kiit.ac.in
-Neelanjan Ghosh        1829165@kiit.ac.in
+1. Siddharth Singh        1829099@kiit.ac.in
+1. Rayak Sil              1829082@kiit.ac.in
+1. Hrishit Prasad Biswas  1829152@kiit.ac.in
+1. Neelanjan Ghosh        1829165@kiit.ac.in
