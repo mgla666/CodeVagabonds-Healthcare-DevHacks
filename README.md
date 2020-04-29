@@ -33,6 +33,6 @@ An overview of
 ----------------------------------
 
 Siddharth Singh        1829099@kiit.ac.in
-Rayak Sil              1829165@kiit.ac.in
+Rayak Sil              1829082@kiit.ac.in
 Hrishit Prasad Biswas  1829152@kiit.ac.in
 Neelanjan Ghosh        1829165@kiit.ac.in
