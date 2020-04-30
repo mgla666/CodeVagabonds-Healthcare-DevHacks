@@ -21,7 +21,11 @@ Shelter is an app to help those who are left lamenting. Here we ensure a good pu
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+![Architecture Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Architecture.JPG)
+
+#### Flowchart
+
+![Flowchart Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Flowchart.jpg)
 
 #### Technical Description
 
