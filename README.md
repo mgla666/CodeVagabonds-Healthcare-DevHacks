@@ -23,11 +23,11 @@ Shelter is an app to help those who are left lamenting. Here we ensure a good pu
 
 ![Architecture Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Architecture.JPG)
 
-#### Flowchart
+### Flowchart
 
 ![Flowchart Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Flowchart.jpg)
 
-#### Technical Description
+### Technical Description
 
 1. UI Design - Adobe XD
     1. Download Adobe XD from [here](https://www.adobe.com/in/products/xd.html).
@@ -38,6 +38,16 @@ Shelter is an app to help those who are left lamenting. Here we ensure a good pu
 1. Backend - Java
 1. Offline Database - MySql
 1. Online Database - Parse API Server
+1. For running the app:
+    1. Download the zip file.
+    1. Extract the zip file to the desktop.
+    1. Then open Android studio, go to files then click on open existing project.
+    1. Open the project that you extracted on desktop.
+    1. After that project will start to sync.
+    1. Click on the project name folder which is present on the left side of the window.
+    1. You will find all the java class file under java folder which is presents on the left side of the screen.
+    1. And you will find all the XML file under layout folder which present inside the resource folder which is present on the left side                         of the window.
+    1. Atlast run the project by clicking the run button which is present at the top right corner.
 
 ### Team Members
 ----------------------------------
