@@ -27,7 +27,13 @@ Affix an image of the flow diagram/architecture diagram of the solution
 
 1. UI Design - Adobe XD
     1. Download Adobe XD from [here](https://www.adobe.com/in/products/xd.html).
-    1. Open the file located [here]().
+    1. Download the file located [here]https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/tree/master/Screenshots/Shelter.xd).
+    1. Open it using Adobe XD and then then click on the run button listed in the top to see the UI design of the app.
+    1. Click on the prototype tab on the top left and press ctrl+A to see the wireframe of the app.
+1. Frontend - XML
+1. Backend - Java
+1. Offline Database - MySql
+1. Online Database - Parse API Server
 
 ### Team Members
 ----------------------------------
