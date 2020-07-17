@@ -1,7 +1,5 @@
 ## Code Vagabonds - Healthcare
 
-The participants are required to use this repository as a template and create a private Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
-
 ### Project Overview
 ----------------------------------
 As there are many people left without a home due to the sudden imposition of lockdown by the government, the need of the hour is to provide them some form of relief in the form of providing them with shelter and food. At the moment, most of them are taking rest in massive gatherings in temples and mosques. This also creates a mass gathering in public spaces which must be avoided at all costs.
