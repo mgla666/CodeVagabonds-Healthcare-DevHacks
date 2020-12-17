@@ -19,17 +19,17 @@ Shelter is an app to help those who are left lamenting. Here we ensure a good pu
 
 #### Architecture Diagram
 
-![Architecture Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Architecture.JPG)
+![Architecture Image](https://github.com/mgla666/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Architecture.JPG)
 
 ### Flowchart
 
-![Flowchart Image](https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Flowchart.jpg)
+![Flowchart Image](https://github.com/mgla666/CodeVagabonds-Healthcare-DevHacks/blob/master/Images/Flowchart.jpg)
 
 ### Technical Description
 
 1. UI Design - Adobe XD
     1. Download Adobe XD from [here](https://www.adobe.com/in/products/xd.html).
-    1. Download the file located [here]https://github.com/rayak-sil/CodeVagabonds-Healthcare-DevHacks/tree/master/Screenshots/Shelter.xd).
+    1. Download the file located [here]https://github.com/mgla666/CodeVagabonds-Healthcare-DevHacks/tree/master/Screenshots/Shelter.xd).
     1. Open it using Adobe XD and then then click on the run button listed in the top to see the UI design of the app.
     1. Click on the prototype tab on the top left and press ctrl+A to see the wireframe of the app.
 1. Frontend - XML
